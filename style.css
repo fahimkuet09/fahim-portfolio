@@ -4,3 +4,8 @@
 .footer p{
     text-align: center;
 }
+
+.header p{
+    text-align: center;
+    text-decoration-color: blue;
+}
