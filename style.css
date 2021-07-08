@@ -1,11 +1,5 @@
-.p{
-    text-align: center;
-}
-.footer p{
-    text-align: center;
-}
+body{font-family: 'Poppins', sans-serif;}
 
-.header p{
-    text-align: center;
-    text-decoration-color: blue;
-}
+h1{font-size: 50px;}
+
+.name-heighlight{color: orange;}
