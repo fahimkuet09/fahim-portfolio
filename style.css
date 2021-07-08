@@ -18,3 +18,12 @@ padding-left: 2%;
 background-repeat: no-repeat;
 }
 section{height: 500px;}
+
+.link-button{
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: 700;
+    color: white;
+    background-image: linear-gradient( lightsalmon ,tomato);
+}
