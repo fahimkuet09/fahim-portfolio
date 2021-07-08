@@ -1,5 +1,13 @@
 body{font-family: 'Poppins', sans-serif;
 margin: 0%;}
+.link{
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: 700;
+    color: white;
+    background-image: linear-gradient( lightsalmon ,tomato);
+}
 
 h1{font-size: 50px;}
 
@@ -19,11 +27,3 @@ background-repeat: no-repeat;
 }
 section{height: 500px;}
 
-.link-button{
-    text-decoration: none;
-    border-radius: 5px;
-    padding: 10px 20px;
-    font-weight: 700;
-    color: white;
-    background-image: linear-gradient( lightsalmon ,tomato);
-}
