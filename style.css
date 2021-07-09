@@ -8,8 +8,10 @@ margin: 0%;}
     color: white;
     background-image: linear-gradient( lightsalmon ,tomato);
 }
-
 h1{font-size: 50px;}
+h2{font-size: 40px;}
+h3{font-size: 30px;}
+p{color: dimgray; }
 
 .name-heighlight{color: orange;}
 
@@ -25,5 +27,12 @@ padding-left: 2%;
 .top-banner{background-image: url("image/top-banner.png");
 background-repeat: no-repeat;
 }
-section{height: 500px;}
+
+.dream-banner{ background-image: url("image/dream-bg.png");
+background-repeat: no-repeat;
+background-position: right;}
+
+section{height: 500px;
+padding-bottom: 150px;
+}
 
